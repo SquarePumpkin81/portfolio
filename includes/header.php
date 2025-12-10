@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Seth Fuller — Resume</title>
+    <title>Seth Fuller</title>
     <link rel="stylesheet" href="/css/styles.css">
 </head>
+
 
 <body class="resume-page">
 
@@ -15,5 +16,8 @@
         614-674-3438 |<a href="https://github.com/SquarePumpkin81" target=_blank>Github</a> |
         <a href="https://www.fullercelestialbrush.com/" target=_blank>Fuller Celestial Brush</a>
     </p>
-    <div><a href="resume.php">Resume</a> | Personal</div>
+    <div>
+        <a href="resume.php">Resume</a> |
+        <a href="favorite-music.php">Personal</a>
+    </div>
 </header>
